@@ -2,4 +2,5 @@
 
 export(drop_dat)
 export(get_sbeta_res)
+export(get_top_moe_res)
 importFrom(dplyr,filter)
